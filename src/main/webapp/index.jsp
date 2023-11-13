@@ -12,7 +12,7 @@
 
   <h1> BALU SANDHYA </h1>
 
-  <h1> SAI BUNNY </h1>
+  <h1> SANDHYA </h1>
 
 </body>
 </html>
